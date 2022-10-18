@@ -1,0 +1,26 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #D8FED7;
+}
+
+#right {
+  min-height: 100vh;
+  background: palegreen;
+}
+
+#branding {
+  width: 150px;
+  height: auto
+}
+
+#condition {
+  width: 100px;
+  height: auto
+}
+
+#master-history {
+  display: none
+}
